@@ -14,6 +14,7 @@ This project is a basic implementation of a motion detection system using Python
 - Python 3
 - OpenCV
 - Numpy
+- Matplotlib
 
 ## Future Enhancements
 - Integrate with email or messaging APIs for real-time alerts
